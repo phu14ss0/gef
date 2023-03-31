@@ -13,3 +13,5 @@ debug.log
 .coverage
 htmlcov
 .benchmarks
+.gitignore
+.DS_Store
